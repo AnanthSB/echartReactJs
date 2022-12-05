@@ -1,3 +1,7 @@
+importatn:- hit npm install once you are done with taking the latest pull.
+
+>>npm install
+
 <!-- npm install --save echarts-for-react -->
 
 <!-- Types of Line echartReactJS -->
