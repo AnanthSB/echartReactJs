@@ -1,4 +1,4 @@
-importatn:- hit npm install once you are done with taking the latest pull.
+important:- hit npm install once you are done with taking the latest pull.
 >>npm install
 
 
